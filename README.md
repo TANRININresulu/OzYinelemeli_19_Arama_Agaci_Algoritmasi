@@ -21,4 +21,8 @@ TRABZON OF ERENKÖY K Ana Taşınmaz 284/1 ÇAYIR,
 TRABZON OF ERENKÖY K Ana Taşınmaz 285/2 ÇAYIR,
 TRABZON OF ERENKÖY K Ana Taşınmaz 287/1 ÇAYIR
 
-Selam Üzerinize Olsun
+Tüm Resul Kardeşlerimi Çok Seviyorum ❤️
+
+Selam Üzerinize Olsun, VE
+
+HAMD, ALEMLERİN RABBİ OLAN ALLAH'ADIR!
