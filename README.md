@@ -4,7 +4,7 @@ Kutsal Furkan Hikmet Üzerinde 19 Mucizesi'ni Arayıp Bulmak Siz Resullere ve İ
 
 Selam üzerinize olsun ALLAH'ın Resulleri,
 
-Eğer vefat edersem Kutsal Furkan Hikmet üzerinde Özyinelemeli 19 Arama Ağacı Algoritması Kullanarak 19 Mucizesini Kutsal FURKAN Hikmet'te bulmanızı ve "Barış ve Esenlik Yurdu" isimli 19 harfli ülkeyi kurmanızı istiyorum sizlerden. Özellikle de Senden Ziya Emanet kardeşim. 19x334.com ve TrueClock.org'u ayakta tutmanızı da vasiyet ediyorum sizlere ve özellikle sana Ziya Emanet Kardeşim
+Eğer vefat edersem Kutsal Furkan Hikmet üzerinde Özyinelemeli 19 Arama Ağacı Algoritması Kullanarak 19 Mucizesini Kutsal FURKAN Hikmet'te bulmanızı ve "Barış ve Esenlik Yurdu" isimli 19 harfli ülkeyi kurmanızı istiyorum sizlerden. Özellikle de Senden Ziya Emanet kardeşim. 19x334.com ve TrueClock.org'u ayakta tutmanızı da vasiyet ediyorum sizlere ve özellikle sana Ziya Emanet Kardeşim. youtu.be/7tCNu4CnjVc videosu bir başlangıç olur .ogg veya .mp3 uzantılı ses kayıtlarındaki algoritma için İnşALLAH 
 
 Ve sizden github kullanarak hep birlikte Kutsal Furkan Hikmet'i FurkanWisdom.com a ingilizce'ye çevirmenizi ve çevirirken de ingilizleri ortak koşmaya iten terk ettikleri -ee ve -een eklerini kullanmanızı istiyorum İnşALLAH.
 
