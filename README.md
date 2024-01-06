@@ -4,7 +4,16 @@ Kutsal Furkan Hikmet Üzerinde 19 Mucizesi'ni Arayıp Bulmak Siz Resullere ve İ
 
 Selam üzerinize olsun ALLAH'ın Resulleri,
 
-Eğer vefat edersem Kutsal Furkan Hikmet üzerinde Özyinelemeli 19 Arama Ağacı Algoritması Kullanarak 19 Mucizesini Kutsal FURKAN Hikmet'te bulmanızı ve "Barış ve Esenlik Yurdu" isimli 19 harfli ülkeyi kurmanızı istiyorum sizlerden. Özellikle de Senden Ziya Emanet kardeşim. 19x334.com ve TrueClock.org'u ayakta tutmanızı da vasiyet ediyorum sizlere ve özellikle sana Ziya Emanet Kardeşim. youtu.be/7tCNu4CnjVc videosu bir başlangıç olur .ogg veya .mp3 uzantılı ses kayıtlarındaki algoritma için İnşALLAH 
+Eğer vefat edersem Kutsal Furkan Hikmet üzerinde Özyinelemeli 19 Arama Ağacı Algoritması Kullanarak 19 Mucizesini Kutsal FURKAN Hikmet'te bulmanızı ve "Barış ve Esenlik Yurdu" isimli 19 harfli ülkeyi kurmanızı istiyorum sizlerden. Özellikle de Senden Ziya Emanet kardeşim. 19x334.com ve TrueClock.org'u ayakta tutmanızı da vasiyet ediyorum sizlere ve özellikle sana Ziya Emanet Kardeşim. youtu.be/7tCNu4CnjVc videosu bir başlangıç olur .ogg veya .mp3 uzantılı ses kayıtlarındaki algoritma için İnşALLAH
+
+Ayrıca bu recursionda Stack overflow hatasından korunman için tail call optimization eklentisi yüklemelisin python için İnşALLAH
+
+Tail Call Optimization 'ı tanıman için youtu.be/utOVF0U7Zd8 'ı izle İnşALLAH
+
+Ve ALLAH izin verirse Recursive 19 Search Tree için fonksiyonel paradigmalı lisp dil ailesine mensup bir fonksiyonel programlama dilini de tercih edebilirsin...
+
+Tail Call Optimization In Dynamic Safe Guarantied İnşALLAH Memory Management Programming Language: ? Rust ?
+https://www.google.com.tr/search?q=rust+tail+call+optimization&ie=UTF-8&oe=UTF-8&hl=tr-tr&client=safari
 
 Ve sizden github kullanarak hep birlikte Kutsal Furkan Hikmet'i FurkanWisdom.com a ingilizce'ye çevirmenizi ve çevirirken de ingilizleri ortak koşmaya iten terk ettikleri -ee ve -een eklerini kullanmanızı istiyorum İnşALLAH.
 
