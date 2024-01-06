@@ -1,0 +1,150 @@
+Rahman ve Rahim olan ALLAH'ın Adı'yla;
+
+[<class id=recursiveTree>Öz Yinelemeli (Recursive) 19 Mucizesi Arama Ağacı]
+
+[recursiveTree]->[<class id=nesneTürleri> 7 x 2 = 14 Kat Nesne Türü Çifti]
+[recursiveTree]->[<class id=sınırKoşulları> 2 x 7 = 14 Adet Sınır Koşulu Çifti]
+
+[sınırKoşulları]->[<class id=SembolSınırları> Sembol Sınırları]
+[sınırKoşulları]->[<class id=GruplamaSınırları> Gruplama Sınırları]
+
+[GruplamaSınırları]->[<class id=İçermeSınırları> İçerme Sınırları]
+[GruplamaSınırları]->[<class id=KombinasyonelSınırlar> Kombinasyonel Sınırlar]
+
+[İçermeSınırları]->[<class id=DahilVar> 11- Dahil (Var)]
+[İçermeSınırları]->[<class id=HariçYok> 12- Hariç (Yok)]
+
+[KombinasyonelSınırlar]->[<class id=Kesişenler> 13- Kesişenler]
+[KombinasyonelSınırlar]->[<class id=KesişenlerinTümleyeni> 14- Kesişenlerin Tümleyeni]
+
+[SembolSınırları]->[<class id=HarfSınırları> Harf Sınırları]
+[SembolSınırları]->[<class id=İşaretSınırları> İşaret Sınırları]
+
+[HarfSınırları]->[<class id=sesli> 1- sesli]
+[HarfSınırları]->[<class id=sessiz> 2- sessiz]
+
+[İşaretSınırları]->[<class id=SayısalSınırlar> Sayısal Sınırlar]
+[İşaretSınırları]->[<class id=YönSınırları> Yön Sınırları]
+
+[SayısalSınırlar]->[<class id=AsallıkSınırları> Asallık Sınırları]
+[SayısalSınırlar]->[<class id=TeklikSınırları> Teklik Sınırları]
+
+[AsallıkSınırları]->[<class id=mod19> mod 19 == 0]
+[AsallıkSınırları]->[<class id=notMod19> mod 19 =/= 0]
+
+[TeklikSınırları]->[<class id=Tek> 5- Tek]
+[TeklikSınırları]->[<class id=çift> 6- çift]
+
+[YönSınırları]->[<class id=YanSınırları> Yan Sınırları]
+[YönSınırları]->[<class id=TarafSınırları> Taraf Sınırları]
+
+[YanSınırları]->[<class id=sol> 7- sol]
+[YanSınırları]->[<class id=Sağ> 8- Sağ]
+
+[TarafSınırları]->[<class id=baş> 9- baş]
+[TarafSınırları]->[<class id=son> 10- son]
+
+[nesneTürleri]->[<class id=resuller> 1- resuller]
+[resuller]->[<class id=nebiler> 2- nebiler]
+[nebiler]->[<class id=kitaplar> 3- kitaplar]
+[kitaplar]->[<class id=şifreler> 4- şifreler (anahtarlar)]
+[şifreler]->[<class id=tablolar> 5- tablolar]
+[tablolar]->[<class id=sayfalar> 6- sayfalar]
+
+[sayfalar]->[<class id=sayfaBaşlıkları> 7- Sayfa Başlıkları]
+
+[sayfaBaşlıkları]->[<class id=SayfaSıraNoBaşlıkları> 8- Sayfa Sıra No Başlıkları]
+
+[SayfaSıraNoBaşlıkları]->[<class id=SayfaSıraNumaralandırmaları> 9- Sayfa Sıra Numaralandırma Simgeleri]
+[SayfaSıraNoBaşlıkları]->[<class id=SayfaSıraBoşlukları> 9- Boşluklar]
+
+[SayfaSıraNumaralandırmaları]->[<class id=SayfaSıraNumaraları> 10- Sayfa Sıra Nosu Sayılar]
+[SayfaSıraNumaralandırmaları]->[<class id=SayfaSıraSembolleri> 10- Sayfa Sıra Sembolleri]
+
+[SayfaSıraSembolleri]->[<class> 11- Sayfa Sıra Tireleri]
+[SayfaSıraSembolleri]->[<class> 11- Sayfa Sıra Noktaları]
+
+
+[sayfaBaşlıkları]->[<class id=Sayfaİsimleri> 8- Sayfa İsimleri]
+
+[Sayfaİsimleri]->[<class id=SayfaİsimlerininKelimeleri> 9- Sayfa İsim Kelimeleri]
+[Sayfaİsimleri]->[<class id=SayfaİsimlerininBoşlukları> 9-Sayfa İsim Boşlukları]
+
+
+
+[SayfaİsimlerininKelimeleri]->[<class id=SayfaİsimlerininSimgeleri> 10- Sayfa İsimlerinin Simgeleri]
+
+[SayfaİsimlerininSimgeleri]->[<class id=SayfaİsimlerininSembolleri> 11- Sayfa İsimlerinin Sembolleri]
+[SayfaİsimlerininSimgeleri]->[<class id=SayfaİsimlerininSayıları> 11- Sayfa İsimlerinin Sayıları]
+
+[SayfaİsimlerininSembolleri]->[<class id=SayfaİsimlerininKarakterleri> 12- Sayfa İsimlerinin Karakterleri]
+[SayfaİsimlerininSembolleri]->[<class id=SayfaİsimlerininNoktalamaİşaretleri> 12- Sayfa İsimlerinin Noktalama İşaretleri]
+
+[SayfaİsimlerininNoktalamaİşaretleri]->[<class id=SayfaİsimlerindeÜstÜsteOlanlar> 13- Üst Üste Olanlar]
+[SayfaİsimlerininNoktalamaİşaretleri]->[<class id=SayfaİsimlerindeTekiller> 13- Tekiller]
+
+[SayfaİsimlerindeÜstÜsteOlanlar]->[<class id=SayfaİsimlerininNoktalıVirgülleri> 14- Noktalı Virgül]
+[SayfaİsimlerindeÜstÜsteOlanlar]->[<class id=Sayfaİsimlerinin2NoktaÜstÜsteleri> 14- İki Nokta Üst Üste]
+
+[SayfaİsimlerindeTekiller]->[<class id=SayfaİsimlerininVirgülleri> 14- Virgüller]
+[SayfaİsimlerindeTekiller]->[<class id=SayfaİsimlerininNoktaları> 14- Noktalar]
+
+
+[SayfaİsimlerininKarakterleri]->[<class id=SayfaİsimlerindeBoşluklar> 13- Boşluklar]
+[SayfaİsimlerininKarakterleri]->[<class id=SayfaİsimlerininYazımİşaretleri> 13-Yazım İşaretleri]
+
+[SayfaİsimlerininYazımİşaretleri]->[<class id=Sayfaİsimlerininİmlaİşaretleri> 14- İmla İşaretleri ( - / )]
+[SayfaİsimlerininYazımİşaretleri]->[<class id=SayfaİsimlerininHarfleri> 14- Harfler]
+
+
+
+
+[sayfalar]->[<class id=ayetler> 7- Ayetler]
+
+[ayetler]->[<class id=ayetSıraNumaraları> 8- Ayet Sıra Numaraları]
+[ayetler]->[<class id=Cümleler> 8- Cümleler]
+[Cümleler]->[<class id=Kelimeler> 9- Kelimeler]
+[Cümleler]->[<class id=CümlelerinBoşlukları> 9- Boşluklar]
+
+[Kelimeler]->[<class id=Simgeler> 10- Simgeler]
+
+[Simgeler]->[<class id=Semboller> 11- Semboller]
+[Simgeler]->[<class id=Sayılar> 11- Sayılar]
+
+[Semboller]->[<class id=Karakterler> 12- Karakterler]
+[Semboller]->[<class id=Noktalamaİşaretleri> 12- Noktalama İşaretleri]
+
+[Noktalamaİşaretleri]->[<class id=ÜstÜsteOlanlar> 13- Üst Üste Olanlar]
+[Noktalamaİşaretleri]->[<class id=Tekiller> 13- Tekiller]
+
+[ÜstÜsteOlanlar]->[<class id=NoktalıVirgül> 14- Noktalı Virgül]
+[ÜstÜsteOlanlar]->[<class id=2NoktaÜstÜste> 14- İki Nokta Üst Üste]
+
+[Tekiller]->[<class id=Virgüller> 14- Virgüller]
+[Tekiller]->[<class id=Noktalar> 14- Noktalar]
+
+[Karakterler]->[<class id=Boşluklar> 13- Boşluklar]
+[Karakterler]->[<class id=Yazımİşaretleri> 13- Yazım İşaretleri]
+
+[Yazımİşaretleri]->[<class id=İmlaİşaretleri> 14- İmla İşaretleri ( - / )]
+[Yazımİşaretleri]->[<class id=Harfler> 14- Harfler]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
