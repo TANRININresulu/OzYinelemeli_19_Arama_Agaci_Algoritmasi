@@ -24,6 +24,8 @@ ALLAH'ın izniyle ALLAH izin verirse Vasiyetimle bana miras kalan taşınmazlar�
 
 Tüm Resul Kardeşlerimi Çok Seviyorum ❤️
 
+![Resuller](./1147227_small.png)
+
 Selam Üzerinize Olsun, VE
 
 HAMD, ALEMLERİN RABBİ OLAN ALLAH'ADIR!
