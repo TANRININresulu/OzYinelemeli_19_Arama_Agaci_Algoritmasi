@@ -22,14 +22,6 @@ işlerine gelen kelimelerde hala kullanıyorlar ama, mesela:
 
 ALLAH'ın izniyle ALLAH izin verirse Vasiyetimle bana miras kalan taşınmazları bu depodaki 40 dk. 32 sn. 'lik ses kaydındaki Öz Yinelemeli 19 Arama Ağacı - Recursive 19 Search Tree algoritmasını kullanarak Kutsal Furkan Hikmet'teki 19 Mucizesi'ni açığa çıkarana bırakıyorum. Önce depodaki nomnoml.com dosyasını arıtmanız gerektiğini unutmayın biraz ip ucu var depodaki mavi ekran görüntüsünde...
 
-İSTANBUL MALTEPE ALTAY ÇEŞME M Ana Taşınmaz 16641/54 ARSA,
-TRABZON OF ERENKÖY K Ana Taşınmaz 114/2 BİR KATLI AHŞAP EV VE TARLA,
-TRABZON OF ERENKÖY K Ana Taşınmaz 129/46 ÇAY BAHÇESİ VE TARLA,
-TRABZON OF ERENKÖY K Ana Taşınmaz 283/2 ÇAY BAHÇESİ,
-TRABZON OF ERENKÖY K Ana Taşınmaz 284/1 ÇAYIR,
-TRABZON OF ERENKÖY K Ana Taşınmaz 285/2 ÇAYIR,
-TRABZON OF ERENKÖY K Ana Taşınmaz 287/1 ÇAYIR
-
 Tüm Resul Kardeşlerimi Çok Seviyorum ❤️
 
 Selam Üzerinize Olsun, VE
